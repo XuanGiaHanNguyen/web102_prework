@@ -23,18 +23,19 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Macbook builtIn Screen-recording 
+GIF created with Kap 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I did not encounter much challenge when completing this - except few of the quizzes where it kinda fusterated me a bit
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 XuanGiaHanNguyen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
