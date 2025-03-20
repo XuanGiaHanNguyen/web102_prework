@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap, Macbook screen-recording 
-(somehow cannot upload the video and the GIF - I'm so sorry :(( ) 
+(somehow uploaded the video but because it's too big, its not showing :( ) 
 
 ## Notes
 
