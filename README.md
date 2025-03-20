@@ -24,14 +24,15 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/XuanGiaHanNguyen/web102_prework/blob/main/GIF.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap 
+GIF created with Kap, Macbook screen-recording 
+(somehow cannot upload the video and the GIF - I'm so sorry :(( ) 
 
 ## Notes
 
-I did not encounter much challenge when completing this - except few of the quizzes where it kinda fusterated me a bit
+I did not encounter much challenge when completing this - except few of the quizzes where it kinda fusterated me a bit ( and the uploading video part because it was too big and keeps having issues - I will try to resovle them but meanwhile :( )
 
 ## License
 
