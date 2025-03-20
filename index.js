@@ -22,34 +22,27 @@ function deleteChildElements(parent) {
  * Skills used: DOM manipulation, for loops, template literals, functions
 */
 
-// grab the element with the id games-container
-const gamesContainer = document.getElementById("games-container");
 
-// create a function that adds all data from the games array to the page
+const gamesContainer = document.getElementById("games-container");
 function addGamesToPage(games) {
 
-    // loop over each item in the data
+  for (let i = 0; i < games.length; i++) {
+    const gameCard = document.createElement("div");
 
-
-        // create a new div element, which will become the game card
-
-
-        // add the class game-card to the list
-
-
-        // set the inner HTML using a template literal to display some info 
-        // about each game
-        // TIP: if your images are not displaying, make sure there is space
-        // between the end of the src attribute and the end of the tag ("/>")
-
-
-        // append the game to the games-container
-
+    gameCard.classList.add("game-card");
+    gameCard.innerHTML = `
+      <img class="game-img" src="${games[i].image}" />
+      <h3>${games[i].name}</h3>
+      <p> Price: $${games[i].price} </p>
+      <p> Category: ${games[i].category} </p>
+    `;
+    gamesContainer.appendChild(gameCard);
+  }
 }
 
 // call the function we just defined using the correct variable
+addGamesToPage(GAMES_JSON);
 // later, we'll call this function using a different list of games
-
 
 /*************************************************************************************
  * Challenge 4: Create the summary statistics at the top of the page displaying the
